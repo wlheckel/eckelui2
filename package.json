@@ -15,6 +15,7 @@
   "author": "Aresn",
   "license": "MIT",
   "dependencies": {
+    "area-data": "^1.0.0",
     "axios": "^0.17.1",
     "vue": "^2.2.6",
     "vue-router": "^2.2.1",
